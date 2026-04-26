@@ -1,0 +1,1 @@
+alert("Do not mess with the website")
